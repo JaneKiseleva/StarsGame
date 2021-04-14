@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">StarsGame</string>
+    <string name="img_star">Фотография звезды</string>
 </resources>
